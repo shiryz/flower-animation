@@ -1,3 +1,5 @@
+// import { TweenMax, Power0 } from 'gsap';
+
 TweenMax.to(".stem", 5, {visibility: "visible", width:"25%",
             right:"2px", top:"364px", ease: Power0.easeNone});
 
